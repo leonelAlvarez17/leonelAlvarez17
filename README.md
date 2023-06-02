@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I’m Leonel Alvarez
+![My stats](https://github-readme-stats.vercel.app/api?username=leonelAlvarez17&count_private=true&show_icons=true&theme=radical)
 
-<!--
-**leonelAlvarez17/leonelAlvarez17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA Tester with solid training and experience in practical projects.
+Skills in analysis, design, and execution of manual and automated testing in web and mobile environments. Proficient in agile methodologies (SCRUM) and tools like Zephyr, Postman, and Jira.
+Active participation in Sprint Daily meetings for issue tracking and blockers.
+Engagement in Sprint Retrospectives for continuous improvement.
+Proficient in functional testing, UX/UI, and RESTful API testing.
+SQL (queries for data retrieval).
+Efficient teamwork and empathetic communication to achieve quality results.
+I am seeking opportunities in innovative companies where I can grow professionally and contribute value.
+Let's connect and explore new opportunities together!
 
-Here are some ideas to get you started:
+## 💪🏼 Skills
+- Jira
+- Postman
+- Agile methodology
+- Scrum
+- Database
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 You can find me at:
+- Linkedin: [LeonelAlvarez](https://www.linkedin.com/in/leonelalvarezz/)
