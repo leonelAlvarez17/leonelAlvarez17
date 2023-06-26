@@ -24,9 +24,7 @@ Let's connect and explore new opportunities together!
  ✅Jira
  
  ✅Postman
- 
- ✅Agile methodology
- 
+  
  ✅Scrum
  
  ✅Database
