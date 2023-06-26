@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Leonel Alvarez
 
 
-👔I am a QA Tester with solid training and experience in practical projects.
+👔I am a passionate QA Tester involved in the software development lifecycle to ensure product quality.
 
 Skills in analysis, design, and execution of manual and automated testing in web and mobile environments. 
 
@@ -21,14 +21,19 @@ Efficient teamwork and empathetic communication to achieve quality results.
 Let's connect and explore new opportunities together!
 
 ## 💻 Skills
-- Jira
-- Postman
-- Agile methodology
-- Scrum
-- Database
-- Git
+ ✅Jira
+ 
+ ✅Postman
+ 
+ ✅Agile methodology
+ 
+ ✅Scrum
+ 
+ ✅Database
+ 
+ ✅Git
 
-## ✅ You can find me at:
+## 📌 You can find me at:
 
 - [![LinkedIn][linkedin-shield]][linkedin-url]
 
