@@ -41,3 +41,8 @@ Let's connect and explore new opportunities together!
 [![GitHub Streak](https://streak-stats.demolab.com?user=leonelAlvarez17&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=leonelAlvarez17&count_private=true&show_icons=true&theme=radical)
+
+## Proyects
+[MyTherapy](https://github.com/leonelAlvarez17/MyTherapy.git)
+
+[Neuronation](https://github.com/leonelAlvarez17/Neuronation.git)
